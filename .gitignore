@@ -1,0 +1,5 @@
+/.quarto/
+**/*.quarto_ipynb
+Thumbs.db
+_site/
+
